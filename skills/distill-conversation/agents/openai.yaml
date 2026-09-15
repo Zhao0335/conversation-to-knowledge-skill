@@ -1,0 +1,4 @@
+interface:
+  display_name: "Distill Conversation"
+  short_description: "Turn work chats into reusable learning material"
+  default_prompt: "Use $distill-conversation to turn this completed work conversation into durable, reusable learning notes and procedures rather than a simple summary."
